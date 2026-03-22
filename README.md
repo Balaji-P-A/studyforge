@@ -207,3 +207,11 @@ See the `LICENSE` file for details.
 - `rag`
 - `nextjs`
 - `fastapi`
+
+## 📚 Documentation
+
+- [Documentation Hub](./docs/README.md)
+- [PRD](./docs/prd/prd-v1.md)
+- [TRD](./docs/trd/trd-v1.md)
+- [Presentation Deck](./docs/presentations/studyforge-overview.pptx)
+  
