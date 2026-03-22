@@ -211,7 +211,7 @@ See the `LICENSE` file for details.
 ## 📚 Documentation
 
 - [Documentation Hub](./docs/README.md)
-- [PRD](./docs/prd/prd-v1.md)
-- [TRD](./docs/trd/trd-v1.md)
+- [PRD](https://docs.google.com/document/d/1y1RhYbPPuiXl1MdrptcLXhNCo2KYCSzXhi0KnI7eUWY/edit?usp=sharing)
+- [TRD](https://docs.google.com/document/d/1iuQ73qInDwX1SBJJkluzpnsXQI47I_YF/edit?usp=sharing&ouid=113848845331512287686&rtpof=true&sd=true)
 - [Presentation Deck](./docs/presentations/studyforge-overview.pptx)
   
